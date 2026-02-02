@@ -28,8 +28,3 @@ A native Android application designed to improve smartphone accessibility for th
 
 ---
 
-### 📊 GitHub Stats
-
-![Hubert's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubertdurnass&show_icons=true&theme=radical&hide_border=true)
-
----
